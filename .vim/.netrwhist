@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/yiwen/anaconda/Examples'
+let g:netrw_dirhist_2='/home/yiwen/anaconda'
+let g:netrw_dirhist_3='/home/yiwen/anaconda/.index'
+let g:netrw_dirhist_4='/home/yiwen/anaconda'
+let g:netrw_dirhist_5='/home/yiwen/Documents/267/visualize_SDL2'
+let g:netrw_dirhist_6='/home/yiwen/Documents/189/hw3/out'
+let g:netrw_dirhist_7='/home/yiwen/Documents/267/hw2/particles_gpu'
+let g:netrw_dirhist_8='/home/yiwen/Documents/161/.git'
